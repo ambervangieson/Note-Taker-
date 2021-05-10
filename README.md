@@ -6,4 +6,5 @@ An application that can be used to write, save, and delete notes.
 
 Deployed: https://fathomless-oasis-01522.herokuapp.com/
 
-<img src="/develop/public/assets/heroku.jpg">
+<img src="/develop/public/assets/heroku.png">
+<img src="/develop/public/assets/functioning.png">
